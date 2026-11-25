@@ -2,7 +2,7 @@
   <img src="banner.png" alt="VagueDustin Enterprises" width="100%">
 </p>
 
-I'm Dustin, based in Henderson, NV. I run the IT department for a company of 1,100+ employees and growing. I started there seven years ago as an entry-level tech, back when there was no infrastructure in place, and built the department from the ground up. My world is enterprise networking, servers and business continuity, at work and at home.
+I'm Dustin, based in Henderson, NV. My world is enterprise networking, servers and business continuity, at work and at home.
 
 At home that means a homelab that's basically a small datacenter. My TrueNAS servers host my sites and apps, and Home Assistant runs the house.
 
